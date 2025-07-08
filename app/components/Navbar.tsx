@@ -221,7 +221,7 @@ export default function Navbar() {
 
   return (
     <nav
-      className="px-6 py-4 flex flex-col md:flex-row md:items-center md:justify-between text-white bg-[#60ab66] fixed w-full top-0 left-0 z-30 shadow-lg"
+      className="px-6 py-4 flex flex-col md:flex-row md:items-center md:justify-between text-white bg-[#60ab66] fixed w-full top-0 left-0 z-50 shadow-lg"
     >
       {/* Left: Logo + Text */}
       <div className="flex items-center space-x-3 mb-2 md:mb-0">
